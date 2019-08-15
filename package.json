@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "hello and goodbye",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paloboo/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paloboo/background-generator/issues"
+  },
+  "homepage": "https://github.com/paloboo/background-generator#readme"
+}
